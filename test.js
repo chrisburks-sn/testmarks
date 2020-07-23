@@ -1,1 +1,5 @@
-(alert('hello world'))();
+(function(){
+   function OpenIt(){
+     prompt("is this you?");
+   }
+})();
